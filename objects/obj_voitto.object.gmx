@@ -26,6 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>global.spawnaa = 0;
+io_clear();
 
 if(global.voice) {
     audio_play_sound(snd_voitto,0,0);
