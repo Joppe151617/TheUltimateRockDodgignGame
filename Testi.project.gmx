@@ -37,6 +37,12 @@
       <sprite>sprites\spr_kuolluUkko</sprite>
       <sprite>sprites\spr_kuolematonUkko</sprite>
     </sprites>
+    <sprites name="AI">
+      <sprite>sprites\spr_AI</sprite>
+      <sprite>sprites\spr_AIVoitto</sprite>
+      <sprite>sprites\spr_AIKuollu</sprite>
+      <sprite>sprites\spr_AIKuolematon</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_tausta</background>
@@ -83,9 +89,18 @@
     </objects>
     <objects name="player">
       <object>objects\obj_Ukko</object>
+      <object>objects\object37</object>
       <object>objects\obj_kuolluUkko</object>
       <object>objects\obj_voittoUkko</object>
     </objects>
+    <objects name="AI">
+      <object>objects\obj_AI</object>
+      <object>objects\obj_AIKuollu</object>
+      <object>objects\obj_AIVoitto</object>
+      <object>objects\obj_playAI</object>
+      <object>objects\obj_AITimer</object>
+    </objects>
+    <object>objects\obj_enemy</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\_rm_menu</room>
@@ -93,6 +108,7 @@
     <room>rooms\rm_options</room>
     <room>rooms\rm_help</room>
     <room>rooms\rm_huone1</room>
+    <room>rooms\rm_AI</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

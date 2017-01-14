@@ -77,7 +77,6 @@
     <instance objName="obj_seina" x="512" y="352" name="inst_CCBB1750" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_seina" x="416" y="224" name="inst_C3042E41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_seina" x="448" y="224" name="inst_812DF0F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_seina" x="480" y="224" name="inst_5BA114AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_seina" x="544" y="224" name="inst_E678AC45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_seina" x="512" y="224" name="inst_76205B1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_seina" x="544" y="224" name="inst_0385EA49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -136,7 +135,6 @@
     <instance objName="obj_tyhja" x="576" y="192" name="inst_6A3444D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tyhja" x="544" y="192" name="inst_5D8031A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tyhja" x="512" y="192" name="inst_2946E6AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_tyhja" x="480" y="192" name="inst_FCB9E2AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tyhja" x="448" y="192" name="inst_ADAD3F00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tyhja" x="416" y="192" name="inst_F027A0FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tyhja" x="640" y="256" name="inst_82FEA0C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -145,6 +143,10 @@
     <instance objName="obj_tyhja" x="640" y="448" name="inst_EA05D236" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_tyhja" x="640" y="512" name="inst_11223DFE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_muuttujat" x="64" y="32" name="inst_F841CBF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_playAI" x="480" y="192" name="inst_54A9FFA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_tyhja" x="448" y="160" name="inst_E1FBFEF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_tyhja" x="480" y="160" name="inst_059370B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_tyhja" x="512" y="160" name="inst_8B927786" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
