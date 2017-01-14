@@ -39,6 +39,7 @@
     </sprites>
     <sprites name="AI">
       <sprite>sprites\spr_AI</sprite>
+      <sprite>sprites\spr_AICheck</sprite>
       <sprite>sprites\spr_AIVoitto</sprite>
       <sprite>sprites\spr_AIKuollu</sprite>
       <sprite>sprites\spr_AIKuolematon</sprite>
@@ -99,6 +100,7 @@
       <object>objects\obj_AIVoitto</object>
       <object>objects\obj_playAI</object>
       <object>objects\obj_AITimer</object>
+      <object>objects\obj_AICheck</object>
     </objects>
     <object>objects\obj_enemy</object>
   </objects>

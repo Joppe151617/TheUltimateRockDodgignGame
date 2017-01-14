@@ -82,11 +82,11 @@ hsp = 0;
 if (instance_exists(obj_AI)) {
     hsp = dir * moveSpeed;
     
-    if (place_meeting(x+hsp,y,obj_seina)) {
-        while (!place_meeting(x+sign(hsp),y,obj_seina)) {
-            x += sign(hsp);
-        }
-        hsp = 0;
+    if (place_meeting(x+hsp*2,y,obj_tyhja) || place_meeting(x+hsp*2,y-10,obj_tyhja) || place_meeting(x+hsp*6,y-30,obj_tyhja)) {
+//        while (!place_meeting(x+sign(hsp),y,obj_tyhja)) {
+//            x += sign(hsp);
+//        }
+//        hsp = 0;
         dir *= -1;
     }
     x += hsp;

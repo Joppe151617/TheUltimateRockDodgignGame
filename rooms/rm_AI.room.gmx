@@ -60,6 +60,7 @@
     <instance objName="obj_seina" x="1056" y="672" name="inst_0C1B20B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_AITimer" x="192" y="32" name="inst_25F24EA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_AI" x="512" y="672" name="inst_95D2036D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_AICheck" x="32" y="64" name="inst_373CC9F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
